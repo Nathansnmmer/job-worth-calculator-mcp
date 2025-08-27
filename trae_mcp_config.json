@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "job-worth-calculator": {
+      "command": "python",
+      "args": ["job-worth-calculator-mcp.py"],
+      "cwd": "d:\\mcpdemo\\work",
+      "description": "🌍 全球工作性价比计算器 - 支持100+国家的PPP转换、职业规划分析和未来趋势预测",
+      "env": {}
+    }
+  }
+}
